@@ -1,0 +1,42 @@
+
+.wrapper {
+  width: 400px;
+  margin: 0 auto;
+  background-color: #1b737d;
+  padding: 30px;
+  color: #fff;
+}
+
+.task { 
+  position: relative;
+  background-color: #fffad6;
+  color: #000;
+  padding: 10px;
+  margin-bottom: 5px;
+
+}
+
+.task p {
+  padding: 0;
+  margin: 0;
+  display: inline-block;
+}
+
+.task button {
+  position: absolute;
+  right: 0;
+  top: 0;
+  border: none;
+  background-color: #ff0000;
+  color: #fff;
+  height: 100%;
+  width: 40px;
+}
+
+.mb-5 {
+  margin-bottom: 5px;
+}
+
+.text-center {
+  text-align: center;
+}
